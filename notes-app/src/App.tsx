@@ -5,7 +5,7 @@ function App() {
   const [count, setCount] = useState(0)
 
   return (
-    <Router basename="/DS6301-Unit3">
+    <Router basename="/DS6306-Unit3">
       <div className="min-h-screen bg-gray-100">
         <nav className="bg-white shadow-lg">
           <div className="max-w-6xl mx-auto px-4">
