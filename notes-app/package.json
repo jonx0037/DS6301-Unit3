@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://jonx0037.github.io/DS6306-Unit3/",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
