@@ -56,7 +56,7 @@ export const About = () => {
           <div className="border-t pt-4">
             <h4 className="font-semibold mb-2">Contact Information</h4>
             <ul className="list-disc pl-5 space-y-1">
-              <li>Email: jarocha@smu.edu</li>
+              <li>Email: <a href="mailto:jarocha@smu.edu" className="text-blue-600 hover:text-blue-800">jarocha@smu.edu</a></li>
               <li>GitHub: <a href="https://github.com/jonx0037/DS6306-Unit3" className="text-blue-600 hover:text-blue-800">https://github.com/jonx0037/DS6306-Unit3</a></li>
             </ul>
           </div>

@@ -76,6 +76,8 @@ function App() {
                 <a 
                   href="mailto:jarocha@smu.edu"
                   className="text-gray-500 hover:text-blue-600"
+                  target="_blank" 
+                  rel="noopener noreferrer"
                 >
                   Contact
                 </a>
