@@ -66,7 +66,7 @@ function App() {
               </p>
               <div className="flex space-x-4">
                 <a 
-                  href="https://github.com/jonx0037" 
+                  href="https://github.com/jonx0037/DS6306-Unit3" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="text-gray-500 hover:text-blue-600"
@@ -74,7 +74,7 @@ function App() {
                   GitHub
                 </a>
                 <a 
-                  href="mailto:jonathanr@smu.edu"
+                  href="mailto:jarocha@smu.edu"
                   className="text-gray-500 hover:text-blue-600"
                 >
                   Contact
